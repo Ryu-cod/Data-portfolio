@@ -9,13 +9,13 @@ This project analyzes employee demographics, job roles, salaries, and organizati
 - Python for automation and advanced analytics  
 
 ## 🛠️ Tools Used
-SQL | R | Python | Power BI | Tableau | GitHub
+SQL | R | Python | GitHub
 
 ## 📂 Project Structure
 - **SQL/** – Data model, inserts, HR analytics, salary analysis  
 - **R/** – Statistical summaries, distributions, A/B testing  
-- **Python/** – Data loading, visualization, correlation analysis  
-- **visuals/** – Exported charts and plots  
+- **Python/** – Data loading, correlation analysis  
+  
 
 ## 📊 Key Insights
 - Salary distribution is right‑skewed  
