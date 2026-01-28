@@ -1,23 +1,31 @@
-#Data-portfolio
-# 📊 Data Analysis Portfolio
+# Dartmortt LLC Workforce & Salary Analytics  
+A full data analytics project using SQL, R, and Python.
 
-Welcome to my data analysis portfolio. This space showcases my work across SQL, Python, and R, with a focus on business analytics, operations, and data-driven decision-making.
+## 📌 Overview
+This project analyzes employee demographics, job roles, salaries, and organizational structure at Dartmortt LLC. It demonstrates:
 
-## 🔍 What You'll Find Here
-- End-to-end data projects
-- SQL analytics and business intelligence
-- Python data pipelines, EDA, and forecasting
-- R statistical analysis and reporting
-- Dashboards and visualizations
+- SQL for data modeling and business queries  
+- R for statistical analysis and visualization  
+- Python for automation and advanced analytics  
 
-## 📂 Featured Projects
-- **Dartmortt LLC SQL Analysis** – HR, salary, and organizational insights
-- **Python Forecasting Model** – Predicting demand using machine learning
-- **R A/B Testing Project** – Statistical evaluation of business experiments
+## 🛠️ Tools Used
+SQL | R | Python | Power BI | Tableau | GitHub
 
-## 🛠️ Tools & Technologies
-SQL | Python | R | Power BI | Tableau | GitHub
+## 📂 Project Structure
+- **SQL/** – Data model, inserts, HR analytics, salary analysis  
+- **R/** – Statistical summaries, distributions, A/B testing  
+- **Python/** – Data loading, visualization, correlation analysis  
+- **visuals/** – Exported charts and plots  
 
-## 📬 Contact
+## 📊 Key Insights
+- Salary distribution is right‑skewed  
+- Executive roles dominate salary spend  
+- Several departments show pay equity gaps  
+- Age and salary show a moderate positive correlation  
+
+## 📈 Dashboards
+Power BI / Tableau dashboards can be built using the SQL outputs.
+
+
 
 
