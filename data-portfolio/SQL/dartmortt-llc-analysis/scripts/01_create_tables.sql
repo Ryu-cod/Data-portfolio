@@ -16,7 +16,6 @@ CREATE TABLE employees (
     employment_type    VARCHAR(50),
     salary             DECIMAL(10,2),
     hire_date          DATE,
-    manager_id         INT,
     location           VARCHAR(100)
 );
 
@@ -27,3 +26,4 @@ CREATE TABLE managers (
     manager_name   VARCHAR(100),
     department     VARCHAR(100)
 );
+
